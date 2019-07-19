@@ -88,18 +88,18 @@ img::-moz-selection {
 }
 
 .btn-xl {
-  font-size: 18px;
+  
   padding: 20px 40px;
 }
 
 .btn-primary {
-  background-color: #fed136;
+  background-color: #6c757d;
   border-color: #fed136;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  border-color: #6c757d !important;
   color: yellow;
 }
 
