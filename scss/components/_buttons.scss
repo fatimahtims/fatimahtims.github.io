@@ -1,16 +1,16 @@
 // Button Styles
 .btn {
   @include heading-font;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .btn-xl {
-  font-size: 18px;
+  font-size: 40px;
   padding: 20px 40px;
 }
 
 .btn-primary {
-  background-color: $primary;
+  background-color: #FFFF;
   border-color: $primary;
   &:active,
   &:focus,
